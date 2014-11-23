@@ -5,13 +5,13 @@ Going all in for webapp final project
 
 1. ~~Think of idea~~
 2. ~~Run it by a few people~~
-3. Sitemap
-4. User Stories/ Acceptance Criteria
-5. Use Case Diagrams
-6. Wireframes
-5. Run it by a few people
-6. Prototype
-7. Run it by a few people
+3. ~~Sitemap~~
+4. ~~User Stories/ Acceptance Criteria~~
+5. ~~Use Case Diagrams~~
+6. ~~Wireframes~~
+5. ~~Run it by a few people~~
+6. ~~Prototype~~
+7. ~~Run it by a few people~~
 8. Setup Express and MongoDB (need: 5 route handlers, 4 Mongoose schemas, 2+ forms (AJAX/server side validation), validation errors, handlebars for user content, good directory structure)
 9. Make sure it conforms to MVC
 10. Unit testing - figure this out (Jasmine or Mocha)?
