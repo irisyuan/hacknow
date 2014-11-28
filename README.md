@@ -25,6 +25,4 @@ Going all in for webapp final project
 19. Research one other server-side and client-side JS library
 20. Responsive design - test on mobile/tablet devices (screenshots be proof)
 21. Integrate an external API
-23. Get this live
-24. Documentatino
-25. Link to live app available by Monday, December 8 @ 11 PM!!!
+23. Live & submit by Dec. 8
