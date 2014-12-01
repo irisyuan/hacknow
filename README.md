@@ -21,7 +21,7 @@ Going all in for webapp final project
 15. Grunt
 17. Integrate user authentication - sign in with provider (FB, Twitter)
 18. Client side form validation with a JS library
-19. Bootstrap CSS files
+19. Try a framework other than Bootstrap (Foundation or Pure)?
 19. Research one other server-side and client-side JS library
 20. Responsive design - test on mobile/tablet devices (screenshots be proof)
 21. Integrate an external API
