@@ -15,7 +15,7 @@ Going all in for webapp final project
 8. ~~Setup Express and MongoDB~~ (need: 5 route handlers, 4 Mongoose schemas, 2+ forms (AJAX/server side validation), validation errors, handlebars for user content, good directory structure)
 9. ~~Make sure it conforms to MVC~~
 10. Unit testing - Jasmine
-11. Functional testing - PhantomJS
+11. ~~Functional testing - Selenium~~
 13. SASS
 14. Concatenate & minify Javascript files
 15. ~~Grunt~~
