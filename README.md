@@ -19,7 +19,7 @@ Going all in for webapp final project
 13. SASS
 14. Concatenate & minify Javascript files
 15. ~~Grunt~~
-17. Integrate user authentication - ~~sign in with provider (FB, Twitter)~~ Passport
+17. ~~Integrate user authentication - ~~sign in with provider (FB, Twitter)~~ Passport~~
 18. ~~Client side form validation with a JS library~~ HTML5
 19. ~~Try a framework other than Bootstrap (Foundation or Pure)?~~
 20. ~~Responsive design - test on mobile/tablet devices (screenshots be proof)~~
